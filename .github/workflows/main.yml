@@ -1,0 +1,19 @@
+# Example YAML file
+
+person:
+  name: John Doe
+  age: 30
+  married: true
+  children:
+    - name: Alice
+      age: 5
+    - name: Bob
+      age: 8
+address:
+  street: 123 Main St
+  city: Metropolis
+  zip: 12345
+hobbies:
+  - reading
+  - hiking
+  - coding
